@@ -21,8 +21,7 @@ Massidda, D. (2014).
 Costruire e pubblicare una libreria per R - parte 1: i file sorgente.
 URL http://www.insular.it/?p=2755
 }
-\author{Davide Massidda <admin@insular.it>
-}
+\author{Davide Massidda <admin@insular.it>}
 \note{
 Si faccia attenzione che anche solo uno dei numeri contenuti in \code{x}
 vale zero, allora la media geometrica sara’ zero.
