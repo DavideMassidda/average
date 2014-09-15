@@ -12,7 +12,7 @@ una libreria per R pubblicati su \url{www.insular.it}.
 Package: \tab average\cr
 Type: \tab Package\cr
 Version: \tab 0.0-0\cr
-Date: \tab 2014-09-14\cr
+Date: \tab 2014-09-15\cr
 License: GPL-3\cr
 }
 La libreria contiene le funzioni \code{harmean} per il calcolo della media

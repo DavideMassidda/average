@@ -16,8 +16,8 @@ Un data frame con 9 osservazioni su due variabili.
   }
 }
 \details{
-I dati sono parte dell'Annuario statistico Cagliari in cifre 2012,
-sezione Territorio e ambiente
+I dati sono parte dell’Annuario statistico \emph{Cagliari in cifre 2012},
+sezione Territorio e ambiente.
 }
 \source{
 \url{http://www.comune.cagliari.it/portale/it/opendata_visualizza_contenuto.page?contentId=SCH68808}
