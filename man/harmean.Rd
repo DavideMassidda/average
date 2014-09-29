@@ -1,5 +1,6 @@
 \name{harmean}
 \alias{harmean}
+\encoding{UTF-8}
 \title{Media armonica}
 \description{
 Dato un vettore numerico, la funzione calcola media armonica dei valori.
