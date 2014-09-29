@@ -1,6 +1,7 @@
 \name{garbage}
 \alias{garbage}
 \docType{data}
+\encoding{UTF-8}
 \title{Raccolta di rifiuti urbani a Cagliari
 }
 \description{
