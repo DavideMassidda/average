@@ -2,6 +2,7 @@
 \alias{average-package}
 \alias{average}
 \docType{package}
+\encoding{UTF-8}
 \title{Medie speciali}
 \description{
 Libreria esemplificativa di accompagnamento dei post Costruire e pubblicare
