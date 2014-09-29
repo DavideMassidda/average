@@ -1,5 +1,6 @@
 \name{geomean}
 \alias{geomean}
+\encoding{UTF-8}
 \title{Media geometrica}
 \description{
 Dato un vettore numerico, la funzione calcola media geometrica dei valori.
